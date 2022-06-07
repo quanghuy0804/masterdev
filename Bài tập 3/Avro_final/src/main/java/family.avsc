@@ -1,0 +1,26 @@
+{
+  "namespace": "src.main.java",
+  "type": "record",
+  "name": "family",
+  "fields": [
+    {"name": "host", "type": "string"},
+    {"name": "id", "type": "int"},
+    {"name": "phonenumber", "type": "int"},
+    {"name": "culture", "type": "boolean"},
+    {"name": "address", "type": "string"},
+    {"name": "Memlist","type": {
+      "namespace": "src.main.java",
+      "type": "array",
+      "items": {
+        "type" : "record",
+        "namespace" : "src.main.java" ,
+        "name" : "Member",
+        "fields" : [
+          {"name" : "name", "type" : "string"},
+          {"name" : "id", "type" :  "int"}
+        ]
+      }
+    }}
+
+  ]
+}
