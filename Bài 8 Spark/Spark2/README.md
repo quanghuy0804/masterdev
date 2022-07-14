@@ -35,7 +35,7 @@
    - Output file : 
       * Task 1: user/huydq129/device_model_num_user
       * Task 2: user/huydq129/device_model_list_user
-      * Task 3: user/huydq129/user_id_device_model
+      * Task 3: user/huydq129/button_count_by_user_id_device_model
 ### Running steps
    ```
     Step 3: Save and Run Task
