@@ -1,0 +1,565 @@
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,697 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [112, 107, 103, 95, 116, 114, 97, 99, 107, 105, 110, 103, 95, 99, 97, 110, 99, 101, 108]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(19 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [54, 48, 57, 50, 52, 53, 57, 52, 45, 56, 98, 48, 56, 45, 52, 52, 54, 98, 45, 56, 99, 57, 49, 45, 52, 53, 97, 98, 48, 97, 55, 56, 52, 99, 54, 54, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [115, 101, 97, 108, 100, 101, 97, 108, 95, 112, 111, 115, 116]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(13 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [54, 48, 57, 50, 52, 53, 57, 52, 45, 56, 98, 48, 56, 45, 52, 52, 54, 98, 45, 56, 99, 57, 49, 45, 52, 53, 97, 98, 48, 97, 55, 56, 52, 99, 54, 54, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [112, 114, 111, 100, 117, 99, 116, 95, 115, 117, 103, 103, 101, 115, 116, 95, 111, 112, 116, 95, 35]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(21 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [53, 100, 51, 53, 50, 53, 51, 52, 45, 53, 52, 100, 99, 45, 52, 102, 48, 100, 45, 57, 98, 97, 97, 45, 52, 54, 52, 100, 48, 97, 48, 97, 48, 50, 54, 54, 95, 79, 80, 80, 79, 32, 47, 32, 67, 80, 72, 49, 57, 54, 57]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(51 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - [115, 101, 97, 108, 95, 100, 101, 97, 108, 95, 100, 101, 108, 105, 118, 101, 114, 95, 116, 105, 109, 101, 95, 111, 112, 116, 49]
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addBinary(27 bytes)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 2
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - addLong(2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,740 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - [53, 102, 50, 56, 99, 57, 50, 55, 45, 48, 54, 49, 56, 45, 52, 56, 49, 102, 45, 56, 56, 101, 101, 45, 52, 52, 51, 48, 48, 97, 54, 101, 52, 99, 52, 55, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - [115, 101, 97, 108, 100, 101, 97, 108, 95, 101, 120, 112, 97, 110, 100]
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - addBinary(15 bytes)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,755 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [53, 99, 98, 98, 48, 102, 102, 97, 45, 102, 57, 53, 48, 45, 52, 52, 54, 102, 45, 98, 56, 99, 53, 45, 52, 97, 54, 102, 48, 97, 48, 97, 48, 50, 49, 48, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [98, 105, 108, 108, 95, 116, 105, 109, 101, 102, 114, 97, 109, 101, 95, 51, 48, 100]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(18 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 2
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addLong(2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [53, 102, 57, 97, 55, 52, 54, 52, 45, 52, 101, 52, 99, 45, 52, 98, 50, 100, 45, 56, 52, 100, 57, 45, 52, 100, 55, 98, 48, 97, 55, 56, 52, 99, 54, 53, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [110, 111, 116, 105]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(4 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 6
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addLong(6)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [53, 102, 102, 49, 50, 102, 99, 51, 45, 48, 97, 50, 99, 45, 52, 55, 49, 53, 45, 56, 100, 99, 98, 45, 52, 101, 53, 52, 48, 97, 54, 101, 52, 99, 50, 54, 95, 115, 97, 109, 115, 117, 110, 103, 32, 47, 32, 83, 77, 45, 71, 54, 49, 48, 70]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(55 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [95, 118, 105, 101, 119, 95, 98, 105, 108, 108, 95, 100, 101, 116, 97, 105, 108]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(17 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 2
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addLong(2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [53, 100, 51, 53, 50, 53, 51, 52, 45, 53, 52, 100, 99, 45, 52, 102, 48, 100, 45, 57, 98, 97, 97, 45, 52, 54, 52, 100, 48, 97, 48, 97, 48, 50, 54, 54, 95, 79, 80, 80, 79, 32, 47, 32, 67, 80, 72, 49, 57, 54, 57]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(51 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [115, 101, 97, 108, 95, 100, 101, 97, 108, 95, 112, 105, 99, 107, 95, 115, 116, 97, 116, 105, 111, 110, 115, 95, 115, 49]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(26 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- start message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE START >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [53, 101, 101, 52, 50, 54, 53, 99, 45, 99, 51, 54, 56, 45, 52, 49, 54, 102, 45, 56, 52, 52, 50, 45, 52, 54, 99, 101, 48, 97, 54, 101, 52, 99, 50, 52, 95, 105, 80, 104, 111, 110, 101]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(43 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </user_id_device_model>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(user_id_device_model, 0)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - [99, 104, 97, 116, 95, 99, 97, 110, 99, 101, 108]
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addBinary(11 bytes)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </button_id>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(button_id, 1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - startField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 1
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - addLong(1)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - r: 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - </count>
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - endField(count, 2)
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - < MESSAGE END >
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- end message -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - <!-- flush -->
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - Flushing mem columnStore to file. allocated memory: 3642
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - 4: start block
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 64
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - max dic id 60
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 6 initialCapacity 1024
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - initial slab of size 1024
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 1024
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - rle encoded bytes 85
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - BytesInput from array of 1 bytes
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 0 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 7 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - {
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 4 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write le int: 3 => 3 0 0 0
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 3 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - }
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 86 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - {
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 1 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 85 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - }
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 66 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - write 96 bytes to out
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - converted 162 to byteArray of 162 bytes
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - initial slab of size 64
+14 Jul 2022 14:05:19,771 Executor task launch worker for task 806 - initial slab of size 1372
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 1372
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 1 slabs, adding new slab of size 1372
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - writing a buffer of size 1372
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - converted 804 to byteArray of 804 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - BytesInput from array of 804 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - max dic id 6
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 3 initialCapacity 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - initial slab of size 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - rle encoded bytes 43
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - BytesInput from array of 1 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 0 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 0 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 44 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - {
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 1 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 43 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - }
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 62 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 46 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - converted 108 to byteArray of 108 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - initial slab of size 56
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 56
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 1 slabs, adding new slab of size 56
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - writing a buffer of size 56
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - converted 40 to byteArray of 40 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - BytesInput from array of 40 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - max dic id 17
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 5 initialCapacity 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - initial slab of size 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 1024
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - rle encoded bytes 71
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - BytesInput from array of 1 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 0 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 0 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 72 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - {
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 1 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 71 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - }
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 114 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write 75 bytes to out
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - converted 189 to byteArray of 189 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - initial slab of size 894
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 0 slabs, adding new slab of size 894
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - used 1 slabs, adding new slab of size 894
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - writing a buffer of size 894
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - converted 726 to byteArray of 726 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - BytesInput from array of 726 bytes
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 4: write dictionary page: 18 values
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 19: write dictionary page content 726
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 745: write data pages
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 745: write data pages content
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 934: end column
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - written 189B for [user_id_device_model] required binary user_id_device_model (UTF8): 110 values, 72B raw, 75B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 18 entries, 894B raw, 18B comp}
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 934: write dictionary page: 61 values
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 949: write dictionary page content 804
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1753: write data pages
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1753: write data pages content
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1915: end column
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - written 162B for [button_id] optional binary button_id (UTF8): 110 values, 93B raw, 96B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 61 entries, 1,372B raw, 61B comp}
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1915: write dictionary page: 7 values
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1928: write dictionary page content 40
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1968: write data pages
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 1968: write data pages content
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 2076: end column
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - written 108B for [count] required int64 count: 110 values, 44B raw, 46B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 7 entries, 56B raw, 7B comp}
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 2076: end block
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 2076: end
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - 2895: footer length = 819
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - write le int: 819 => 51 3 0 0
+14 Jul 2022 14:05:19,787 dispatcher-event-loop-1 - Commit allowed for stage=10.0, partition=0, task attempt 0
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - Saved output of task 'attempt_20220714140519_0010_m_000000_0' to file:/C:/Users/Admin/Desktop/Spark2/user/huydq129/button_count_by_user_id_device_model/_temporary/0/task_20220714140519_0010_m_000000
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - attempt_20220714140519_0010_m_000000_0: Committed
+14 Jul 2022 14:05:19,787 Executor task launch worker for task 806 - Finished task 0.0 in stage 10.0 (TID 806). 2205 bytes result sent to driver
+14 Jul 2022 14:05:19,787 dispatcher-event-loop-0 - parentName: , name: TaskSet_10.0, runningTasks: 0
+14 Jul 2022 14:05:19,787 task-result-getter-2 - Finished task 0.0 in stage 10.0 (TID 806) in 490 ms on localhost (executor driver) (1/1)
+14 Jul 2022 14:05:19,787 task-result-getter-2 - Removed TaskSet 10.0, whose tasks have all completed, from pool 
+14 Jul 2022 14:05:19,787 dag-scheduler-event-loop - ResultStage 10 (parquet at Run.java:39) finished in 0.510 s
+14 Jul 2022 14:05:19,787 dag-scheduler-event-loop - After removal of stage 8, remaining stages = 2
+14 Jul 2022 14:05:19,787 dag-scheduler-event-loop - After removal of stage 10, remaining stages = 1
+14 Jul 2022 14:05:19,787 dag-scheduler-event-loop - After removal of stage 9, remaining stages = 0
+14 Jul 2022 14:05:19,787 main - Job 3 finished: parquet at Run.java:39, took 3.218511 s
+14 Jul 2022 14:05:19,797 main - Merging data from DeprecatedRawLocalFileStatus{path=file:/C:/Users/Admin/Desktop/Spark2/user/huydq129/button_count_by_user_id_device_model/_temporary/0/task_20220714140519_0010_m_000000; isDirectory=true; modification_time=1657782319377; access_time=0; owner=; group=; permission=rwxrwxrwx; isSymlink=false} to file:/C:/Users/Admin/Desktop/Spark2/user/huydq129/button_count_by_user_id_device_model
+14 Jul 2022 14:05:19,797 main - Merging data from DeprecatedRawLocalFileStatus{path=file:/C:/Users/Admin/Desktop/Spark2/user/huydq129/button_count_by_user_id_device_model/_temporary/0/task_20220714140519_0010_m_000000/part-00000-e66890f8-3794-455f-87ed-e7a796ac08c1-c000.snappy.parquet; isDirectory=false; length=2903; replication=1; blocksize=33554432; modification_time=1657782319787; access_time=0; owner=; group=; permission=rw-rw-rw-; isSymlink=false} to file:/C:/Users/Admin/Desktop/Spark2/user/huydq129/button_count_by_user_id_device_model/part-00000-e66890f8-3794-455f-87ed-e7a796ac08c1-c000.snappy.parquet
+14 Jul 2022 14:05:19,803 main - Committing files staged for absolute locations Map()
+14 Jul 2022 14:05:19,803 main - Write Job c25c59bd-e8e1-4331-b4d6-4b2402fb5c8f committed.
+14 Jul 2022 14:05:19,803 main - Finished processing stats for write job c25c59bd-e8e1-4331-b4d6-4b2402fb5c8f.
+14 Jul 2022 14:05:19,818 Thread-1 - Invoking stop() from shutdown hook
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.Server@346a361
+14 Jul 2022 14:05:19,818 Thread-1 - doStop org.spark_project.jetty.server.Server@346a361
+14 Jul 2022 14:05:19,818 SparkUI-31 - ran SparkUI-31-acceptor-0@71e5f61d-ServerConnector@53e211ee{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+14 Jul 2022 14:05:19,818 Thread-1 - Graceful shutdown org.spark_project.jetty.server.Server@346a361 by 
+14 Jul 2022 14:05:19,818 Thread-1 - stopping Spark@53e211ee{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.ServerConnector$ServerConnectorManager@76a36b71
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Stopping org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@208c8d on org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-30 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-30 - Running change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@208c8d
+14 Jul 2022 14:05:19,818 SparkUI-30 - Closing 0 endPoints on org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-30 - Closed 0 endPoints on org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-30 - Selector loop waiting on select
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseSelector@1ba7c64d on org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-30 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-30 - Running change org.spark_project.jetty.io.ManagedSelector$CloseSelector@1ba7c64d
+14 Jul 2022 14:05:19,818 Thread-1 - Stopped org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 SparkUI-30 - EPC Prod/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@2c259fc8 produced null
+14 Jul 2022 14:05:19,818 SparkUI-30 - EPC Idle/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@2c259fc8 produce exit
+14 Jul 2022 14:05:19,818 SparkUI-30 - ran org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.io.ManagedSelector@1c98290c id=3 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Stopping org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@1fe77550 on org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-28 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-28 - Running change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@1fe77550
+14 Jul 2022 14:05:19,818 SparkUI-28 - Closing 0 endPoints on org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-28 - Closed 0 endPoints on org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-28 - Selector loop waiting on select
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseSelector@6ca1b237 on org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-28 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-28 - Running change org.spark_project.jetty.io.ManagedSelector$CloseSelector@6ca1b237
+14 Jul 2022 14:05:19,818 SparkUI-28 - EPC Prod/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@7cbbbde6 produced null
+14 Jul 2022 14:05:19,818 SparkUI-28 - EPC Idle/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@7cbbbde6 produce exit
+14 Jul 2022 14:05:19,818 SparkUI-28 - ran org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - Stopped org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.io.ManagedSelector@2d10e0b1 id=2 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Stopping org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@47121dc2 on org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-29 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-29 - Running change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@47121dc2
+14 Jul 2022 14:05:19,818 SparkUI-29 - Closing 0 endPoints on org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-29 - Closed 0 endPoints on org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-29 - Selector loop waiting on select
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseSelector@62223ec3 on org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-29 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-29 - Running change org.spark_project.jetty.io.ManagedSelector$CloseSelector@62223ec3
+14 Jul 2022 14:05:19,818 SparkUI-29 - EPC Prod/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@453e0f94 produced null
+14 Jul 2022 14:05:19,818 SparkUI-29 - EPC Idle/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@453e0f94 produce exit
+14 Jul 2022 14:05:19,818 Thread-1 - Stopped org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 SparkUI-29 - ran org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.io.ManagedSelector@63c5efee id=1 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Stopping org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@46cb8a22 on org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-27 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-27 - Running change org.spark_project.jetty.io.ManagedSelector$CloseEndPoints@46cb8a22
+14 Jul 2022 14:05:19,818 SparkUI-27 - Closing 0 endPoints on org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-27 - Closed 0 endPoints on org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 Thread-1 - Queued change org.spark_project.jetty.io.ManagedSelector$CloseSelector@279aa8c6 on org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=0 selected=0
+14 Jul 2022 14:05:19,818 SparkUI-27 - Selector loop waiting on select
+14 Jul 2022 14:05:19,818 SparkUI-27 - Selector loop woken up from select, 0/0 selected
+14 Jul 2022 14:05:19,818 SparkUI-27 - Running change org.spark_project.jetty.io.ManagedSelector$CloseSelector@279aa8c6
+14 Jul 2022 14:05:19,818 SparkUI-27 - EPC Prod/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@34b156f5 produced null
+14 Jul 2022 14:05:19,818 SparkUI-27 - EPC Idle/org.spark_project.jetty.io.ManagedSelector$SelectorProducer@34b156f5 produce exit
+14 Jul 2022 14:05:19,818 Thread-1 - Stopped org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 SparkUI-27 - ran org.spark_project.jetty.io.ManagedSelector@53ab0286 id=0 keys=-1 selected=-1
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.server.ServerConnector$ServerConnectorManager@76a36b71
+14 Jul 2022 14:05:19,818 Thread-1 - stopping HttpConnectionFactory@55795845[HTTP/1.1]
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED HttpConnectionFactory@55795845[HTTP/1.1]
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.util.thread.ScheduledExecutorScheduler@41a90fa8
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.util.thread.ScheduledExecutorScheduler@41a90fa8
+14 Jul 2022 14:05:19,818 Thread-1 - Stopped Spark@53e211ee{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED Spark@53e211ee{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.Server@346a361
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.handler.ContextHandlerCollection@5bf22f18[org.spark_project.jetty.server.handler.gzip.GzipHandler@46e8a539, org.spark_project.jetty.server.handler.gzip.GzipHandler@3f23a3a0, org.spark_project.jetty.server.handler.gzip.GzipHandler@31024624, org.spark_project.jetty.server.handler.gzip.GzipHandler@6a1d204a, org.spark_project.jetty.server.handler.gzip.GzipHandler@591e58fa, org.spark_project.jetty.server.handler.gzip.GzipHandler@6d8792db, org.spark_project.jetty.server.handler.gzip.GzipHandler@9d157ff, org.spark_project.jetty.server.handler.gzip.GzipHandler@403132fc, org.spark_project.jetty.server.handler.gzip.GzipHandler@3a1d593e, org.spark_project.jetty.server.handler.gzip.GzipHandler@314b8f2d, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a3e3e8b, org.spark_project.jetty.server.handler.gzip.GzipHandler@3c9168dc, org.spark_project.jetty.server.handler.gzip.GzipHandler@5217f3d0, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e9319f, org.spark_project.jetty.server.handler.gzip.GzipHandler@1fc0053e, org.spark_project.jetty.server.handler.gzip.GzipHandler@5db4c359, org.spark_project.jetty.server.handler.gzip.GzipHandler@6fefce9e, org.spark_project.jetty.server.handler.gzip.GzipHandler@c65a5ef, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e46d9f4, org.spark_project.jetty.server.handler.gzip.GzipHandler@11dee337, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a8ab068, org.spark_project.jetty.server.handler.gzip.GzipHandler@2baa8d82, org.spark_project.jetty.server.handler.gzip.GzipHandler@2b52c0d6, org.spark_project.jetty.server.handler.gzip.GzipHandler@cdc3aae, org.spark_project.jetty.server.handler.gzip.GzipHandler@49f5c307, o.s.j.s.ServletContextHandler@63998bf4{/metrics/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@15723761{/SQL,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@3fbfa96{/SQL/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@301d8120{/SQL/execution,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@6a74d228{/SQL/execution/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@35c09b94{/static/sql,null,SHUTDOWN,@Spark}]
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.handler.ContextHandlerCollection@5bf22f18[org.spark_project.jetty.server.handler.gzip.GzipHandler@46e8a539, org.spark_project.jetty.server.handler.gzip.GzipHandler@3f23a3a0, org.spark_project.jetty.server.handler.gzip.GzipHandler@31024624, org.spark_project.jetty.server.handler.gzip.GzipHandler@6a1d204a, org.spark_project.jetty.server.handler.gzip.GzipHandler@591e58fa, org.spark_project.jetty.server.handler.gzip.GzipHandler@6d8792db, org.spark_project.jetty.server.handler.gzip.GzipHandler@9d157ff, org.spark_project.jetty.server.handler.gzip.GzipHandler@403132fc, org.spark_project.jetty.server.handler.gzip.GzipHandler@3a1d593e, org.spark_project.jetty.server.handler.gzip.GzipHandler@314b8f2d, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a3e3e8b, org.spark_project.jetty.server.handler.gzip.GzipHandler@3c9168dc, org.spark_project.jetty.server.handler.gzip.GzipHandler@5217f3d0, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e9319f, org.spark_project.jetty.server.handler.gzip.GzipHandler@1fc0053e, org.spark_project.jetty.server.handler.gzip.GzipHandler@5db4c359, org.spark_project.jetty.server.handler.gzip.GzipHandler@6fefce9e, org.spark_project.jetty.server.handler.gzip.GzipHandler@c65a5ef, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e46d9f4, org.spark_project.jetty.server.handler.gzip.GzipHandler@11dee337, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a8ab068, org.spark_project.jetty.server.handler.gzip.GzipHandler@2baa8d82, org.spark_project.jetty.server.handler.gzip.GzipHandler@2b52c0d6, org.spark_project.jetty.server.handler.gzip.GzipHandler@cdc3aae, org.spark_project.jetty.server.handler.gzip.GzipHandler@49f5c307, o.s.j.s.ServletContextHandler@63998bf4{/metrics/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@15723761{/SQL,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@3fbfa96{/SQL/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@301d8120{/SQL/execution,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@6a74d228{/SQL/execution/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@35c09b94{/static/sql,null,SHUTDOWN,@Spark}]
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.server.handler.ContextHandlerCollection@5bf22f18[org.spark_project.jetty.server.handler.gzip.GzipHandler@46e8a539, org.spark_project.jetty.server.handler.gzip.GzipHandler@3f23a3a0, org.spark_project.jetty.server.handler.gzip.GzipHandler@31024624, org.spark_project.jetty.server.handler.gzip.GzipHandler@6a1d204a, org.spark_project.jetty.server.handler.gzip.GzipHandler@591e58fa, org.spark_project.jetty.server.handler.gzip.GzipHandler@6d8792db, org.spark_project.jetty.server.handler.gzip.GzipHandler@9d157ff, org.spark_project.jetty.server.handler.gzip.GzipHandler@403132fc, org.spark_project.jetty.server.handler.gzip.GzipHandler@3a1d593e, org.spark_project.jetty.server.handler.gzip.GzipHandler@314b8f2d, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a3e3e8b, org.spark_project.jetty.server.handler.gzip.GzipHandler@3c9168dc, org.spark_project.jetty.server.handler.gzip.GzipHandler@5217f3d0, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e9319f, org.spark_project.jetty.server.handler.gzip.GzipHandler@1fc0053e, org.spark_project.jetty.server.handler.gzip.GzipHandler@5db4c359, org.spark_project.jetty.server.handler.gzip.GzipHandler@6fefce9e, org.spark_project.jetty.server.handler.gzip.GzipHandler@c65a5ef, org.spark_project.jetty.server.handler.gzip.GzipHandler@6e46d9f4, org.spark_project.jetty.server.handler.gzip.GzipHandler@11dee337, org.spark_project.jetty.server.handler.gzip.GzipHandler@4a8ab068, org.spark_project.jetty.server.handler.gzip.GzipHandler@2baa8d82, org.spark_project.jetty.server.handler.gzip.GzipHandler@2b52c0d6, org.spark_project.jetty.server.handler.gzip.GzipHandler@cdc3aae, org.spark_project.jetty.server.handler.gzip.GzipHandler@49f5c307, o.s.j.s.ServletContextHandler@63998bf4{/metrics/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@15723761{/SQL,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@3fbfa96{/SQL/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@301d8120{/SQL/execution,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@6a74d228{/SQL/execution/json,null,SHUTDOWN,@Spark}, o.s.j.s.ServletContextHandler@35c09b94{/static/sql,null,SHUTDOWN,@Spark}]
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.handler.ErrorHandler@186978a6
+14 Jul 2022 14:05:19,818 Thread-1 - stopping org.spark_project.jetty.server.handler.ErrorHandler@186978a6
+14 Jul 2022 14:05:19,818 Thread-1 - STOPPED org.spark_project.jetty.server.handler.ErrorHandler@186978a6
+14 Jul 2022 14:05:19,818 Thread-1 - stopping SparkUI{STARTED,8<=8<=200,i=8,q=0}
+14 Jul 2022 14:05:19,834 Thread-1 - STOPPED SparkUI{STOPPED,8<=8<=200,i=0,q=0}
+14 Jul 2022 14:05:19,834 Thread-1 - STOPPED org.spark_project.jetty.server.Server@346a361
+14 Jul 2022 14:05:19,834 Thread-1 - Stopped Spark web UI at http://MTD-HUYDQ129:4040
+14 Jul 2022 14:05:19,850 dispatcher-event-loop-1 - MapOutputTrackerMasterEndpoint stopped!
+14 Jul 2022 14:05:20,392 Thread-1 - MemoryStore cleared
+14 Jul 2022 14:05:20,392 Thread-1 - BlockManager stopped
+14 Jul 2022 14:05:20,394 Thread-1 - BlockManagerMaster stopped
+14 Jul 2022 14:05:20,398 dispatcher-event-loop-1 - OutputCommitCoordinator stopped!
+14 Jul 2022 14:05:20,402 Thread-1 - Successfully stopped SparkContext
+14 Jul 2022 14:05:20,402 Thread-1 - Shutdown hook called
+14 Jul 2022 14:05:20,403 Thread-1 - Deleting directory C:\Users\Admin\AppData\Local\Temp\spark-dd99fa5c-8474-417e-93d2-da8ee56c7ca8
