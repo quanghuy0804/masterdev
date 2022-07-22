@@ -1,0 +1,10 @@
+Kafka\DataTrackingOuter$1.class
+Kafka\DataTrackingOuter$DataTracking.class
+Kafka\DataTrackingOuter$DataTrackingOrBuilder.class
+serialize\Serialize.class
+Kafka\ProtoProducer.class
+Kafka\DataTrackingOuter.class
+serialize\Deserialize.class
+Kafka\ProtoConsumer.class
+Kafka\DataTrackingOuter$DataTracking$1.class
+Kafka\DataTrackingOuter$DataTracking$Builder.class
